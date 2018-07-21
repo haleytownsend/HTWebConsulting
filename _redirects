@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://haleytownsend.netlify.com/* http://www.htwebconsulting.com/:splat 301!
